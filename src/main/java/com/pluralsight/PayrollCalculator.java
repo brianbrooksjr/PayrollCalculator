@@ -28,4 +28,3 @@ public class PayrollCalculator {
         // Close the scanner
         myscanner.close();
     }
-}
